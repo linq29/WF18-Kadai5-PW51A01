@@ -5,8 +5,8 @@
     box-sizing: border-box;
 }
 ::selection {
-    background: #00aaea; /* change the color to your preference */
-    color: #fff; /* change the text color if needed */
+    background: #00aaea;
+    color: #fff;
 }
 body {
     margin: 0;
@@ -20,10 +20,10 @@ body {
     background-color: #f5f5f5;
 }
 .bg_normal {
-    background-image: url(../images/bg-sw.jpg);
+    background-image: url(../images/bg-sw.webp);
 }
 .bg_oz {
-    background-image: url(../images/bg-oz.jpg);
+    background-image: url(../images/bg-oz.webp);
 }
 .bg_fixed {
     background-attachment: fixed;
@@ -229,7 +229,7 @@ footer {
 
 /* index.html用 */
 .intro_main {
-    background-image: url(../images/bg-poster.jpg);
+    background-image: url(../images/bg-poster.webp);
     margin-top: -2em;
     padding: 40px 100px 40px 80px;
     border: 2px solid #00aaea;
@@ -310,7 +310,7 @@ footer {
     text-underline-offset: -5px;
 }
 .story_detail {
-    background-image: url(../images/bg-sky.jpg);
+    background-image: url(../images/bg-sky.webp);
     margin: 40px 0;
     padding: 60px 0 0;
 }
